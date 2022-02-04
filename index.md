@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# JAMIL'S CODING SPOT
+I'm using this repository to keep an archive of my [**blog**](https://jamilhallal.blogspot.com) posts.
 
-You can use the [editor on GitHub](https://github.com/jhallal/jhallal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhallal/jhallal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [**7 Habits of Highly Effective Web Developers**](https://jamilhallal.blogspot.com/2022/02/7-habits-of-highly-effective-web-developers.html)
+- [**SharePoint Online: How To Choose Between Team Site and Communication Site**](https://jamilhallal.blogspot.com/2022/02/sharepoint-online-how-to-choose-between-team-site-and-communication-site.html)
+- [**How to Map Json String to a Model in ASP.NET Core?**](https://jamilhallal.blogspot.com/2022/02/how-to-map-json-string-to-a-model-in-aspnet-core.html)
+- [**Applying Policy-based Authorization in ASPNET Core**](https://jamilhallal.blogspot.com/2022/02/applying-policy-based-authorization-in-aspnet-core.html)
+- [**How Can I Upload a File using Html Input File Control in ASP.NET MVC 3.0**](https://jamilhallal.blogspot.com/2022/01/how-can-i-upload-a-file-using-html-input-file-control-in-aspnet-mvc.html)
+- [**How to Implement Global Exception Handling in ASP.NET Core Application**](https://jamilhallal.blogspot.com/2022/01/how-to-implement-global-exception-handling-in-aspnet-core-application.html)
+- [**Remove the Hosting Folder Name from MVC URL**](https://jamilhallal.blogspot.com/2022/01/remove-hosting-folder-name-from-mvc-url.html)
+- [**What is OneDrive for Business (ODFB)?**](https://jamilhallal.blogspot.com/2022/01/what-is-onedrive-for-business-odfb.html)
+- [**How to Upload an Image File in ASP.NET MVC 4**](https://jamilhallal.blogspot.com/2022/01/how-to-upload-image-file-in-aspnet-mvc-4.html)
+- [**How to get day/month/year from a date object in JavaScript?**](https://jamilhallal.blogspot.com/2022/01/how-to-get-daymonthyear-from-a-date-object-in-javascript.html)
+- [**How to Remove the Top Banner from SharePoint Online Modern Pages**](https://jamilhallal.blogspot.com/2022/01/how-to-remove-the-top-banner-from-sharepoint-online-modern-pages.html)
+- [**How to Login to Your SharePoint Online**](https://jamilhallal.blogspot.com/2022/01/how-to-login-to-your-sharepoint-online.html)
+- [**SharePoint PnP PowerShell Error : The term ‘Connect-PnPOnline’ is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again**](https://jamilhallal.blogspot.com/2022/01/sharepoint-pnp-powershell-error-the-term-connect-pnponline-is-not-recognized-as-the-name-of-a-cmdlet-function-script-file-or-operable-program.html)
+- [**Tutorial: How to Read and Decode Messages from Azure Queue**](https://jamilhallal.blogspot.com/2021/12/how-to-read-and-decode-messages-from-azure-queue.html)
+- [**iOS Developers' Profits Reached More Than $260 Billion**](https://jamilhallal.blogspot.com/2022/01/ios-developers-profits-reached-more-than-dollar260-billion.html)
+- [**Google Cracks Serious Security Gaps In Google Chrome Browser And Urges Users To Update It**](https://jamilhallal.blogspot.com/2022/01/google-cracks-serious-security-gaps-in-google-chrome-browser-and-urges-users-to-update-it.html)
+- [**What Are Cryptocurrencies and How Safe They Are?**](https://jamilhallal.blogspot.com/2022/01/what-are-cryptocurrencies-and-how-safe-they-are.html)
+- [**Fixing Yeoman ps1 Error 'npm\yo.ps1 cannot be loaded because running scripts is disabled on this system' when Creating an SPFx SharePoint Project**](https://jamilhallal.blogspot.com/2022/01/fixing-yoman-ps1-error-npm-yo-ps1-cannot-be-loaded-when-creating-am-spfx-sharepoint-project.html)
+- [**SharePoint & Log4j - CRITICAL: Security Vulnerability**](https://jamilhallal.blogspot.com/2021/12/sharepoint-and-log4j-critical-security-vulnerability.html)
+- [**404 Error - When Browsing Page Manually in React App**](https://jamilhallal.blogspot.com/2021/12/404-error-when-browsing-page-manually-in-react-app.html)
+- [**Five Tips for Achieving Continuous Delivery**](https://jamilhallal.blogspot.com/2021/12/five-tips-for-achieving-continuous-delivery.html)
+- [**DotNet Core deployment IIS error - 500.31-failed to load asp.net core runtime**](https://jamilhallal.blogspot.com/2021/11/dotnet-core-deployment-iis-error-500-31-failed-to-load-aspnet-core-runtime.html)
+- [**ASP.NET MVC Security Best Practices**](https://jamilhallal.blogspot.com/2021/11/aspnet-mvc-security-best-practices.html)
+- [**How to change the default home page in ASP.NET Core Razor Pages**](https://jamilhallal.blogspot.com/2021/11/how-to-change-default-home-page-in-asp-net-core-razor-pages.html)
+- [**Detecting Debug mode in ASP.NET Core / .NET 5**](https://jamilhallal.blogspot.com/2021/11/detecting-debug-mode-in-aspnet-core-net.html)
+- [**Learn how to design effective data analytics reports with Power BI**](https://jamilhallal.blogspot.com/2021/10/learn-how-to-design-effective-data-analytics-reports-with-power-bi.html)
+- [**Step by Step: How to Become a .NET Software Solution Architect**](https://jamilhallal.blogspot.com/2021/10/step-by-step-how-to-become-dotnet-software-solution-architect.html)
+- [**Top ASP.NET MVC Interview Questions for a Senior Position - Part 1**](https://jamilhallal.blogspot.com/2021/10/top-asp-net-interview-questions-for-a-senior-position-part-1.html)
+- [**JavaScript Code to Validate Phone Number Input Based on Country (How to use libphonenumber in few steps)**](https://jamilhallal.blogspot.com/2021/09/javascript-code-to-validate-phone.html)
+- [**Solution Architecture with .NET - Learn How to Become a Solution Architect**](https://jamilhallal.blogspot.com/2021/09/solution-architecture-with-net.html)
+- [**SPFx solution with multiple WebParts and extensions doesn't display the extensions after deployment**](https://jamilhallal.blogspot.com/2021/09/spfx-solution-with-multiple-webparts.html)
+- [**Building Secure ASP.NET MVC Web Applications**](https://jamilhallal.blogspot.com/2021/08/building-secure-aspnet-mvc-web.html)
+- [**SSIS package taking a long time to save or open in Visual Studio**](https://jamilhallal.blogspot.com/2021/02/ssis-package-taking-long-time-to-save.html)
+- [**NLog for MVC - How to Log the Machine Name and the Client IP Address in NLog**](https://jamilhallal.blogspot.com/2018/10/nlog-for-mvc-how-to-log-machine-name.html)
+- [**JavaScript confirm or radconfirm not triggering the PostBack Event**](https://jamilhallal.blogspot.com/2018/07/javascript-confirm-or-radconfirm-not.html)
+- [**HTML Manipulation using .NET - Manage Dynamic Views in ASP.NET MVC using Html Agility Pack**](https://jamilhallal.blogspot.com/2018/03/html-manipulation-using-net-manage.html)
+- [**List of .NET Dependency Injection Containers (IOC)**](https://jamilhallal.blogspot.com/2018/03/list-of-net-dependency-injection-containers.html)
+- [**Serialize EntityFramework Object and Remove Null properties**](https://jamilhallal.blogspot.com/2017/12/serialize-entityframework-object-and.html)
+- [**Sort Properties in JSON Object using Newtonsoft.Json**](https://jamilhallal.blogspot.com/2017/12/sort-properties-in-json-object.html)
+- [**Corrupted File when using DownloadToStream in Azure blob**](https://jamilhallal.blogspot.com/2021/10/corrupted-file-when-using-downloadtostream-in-azure-blob.html)
+- [**301 Permanent Redirect in ASP.NET MVC**](https://jamilhallal.blogspot.com/2017/09/301-permanent-redirect-in-aspnet-mvc.html)
+- [**How to fix Font Awesome WebFont woff2 not found**](https://jamilhallal.blogspot.com/2017/03/how-to-fix-font-awesome-webfont-woff2.html)
+- [**Configure NLog for ASP.NET MVC in 3 Steps**](https://jamilhallal.blogspot.com/2017/02/configure-nlog-for-aspnet-mvc-in-3-steps.html)
+- [**Delete log files that are older than 6 months**](https://jamilhallal.blogspot.com/2016/11/delete-log-files-that-are-older-than-6.html)
+- [**How to Fix an Empty Web Service Reference in Visual Studio**](https://jamilhallal.blogspot.com/2016/03/how-to-fix-empty-web-service-reference.html)
+- [**Configure log4net logging framework for ASP.NET MVC**](https://jamilhallal.blogspot.com/2015/10/configure-log4net-logging-framework-for-asp-net-mvc.html)
+- [**Configure Check-Out Settings - How to avoid multiple checkouts in TFS 2010**](https://jamilhallal.blogspot.com/2012/03/how-to-avoid-multiple-checkouts-in-tfs-2010-configure-check-out-settings.html)
+- [**Check if Point is inside a Polygon using SQL**](https://jamilhallal.blogspot.com/2011/12/check-if-point-is-inside-polygon-using.html)
+- [**How to Escape Single Quotes Within JavaScript**](https://jamilhallal.blogspot.com/2010/08/escape-single-quotes-within-javascript.html)
