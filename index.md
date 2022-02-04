@@ -2,7 +2,7 @@
 I'm using this repository to keep an archive of my [**blog**](https://jamilhallal.blogspot.com) posts.
 
 
-- [**7 Habits of Highly Effective Web Developers**](https://jamilhallal.blogspot.com/2022/02/7-habits-of-highly-effective-web-developers.html)
+- [**7 Amazing Habits of Highly Effective Web Developers**](https://jamilhallal.blogspot.com/2022/02/7-habits-of-highly-effective-web-developers.html)
 - [**SharePoint Online: How To Choose Between Team Site and Communication Site**](https://jamilhallal.blogspot.com/2022/02/sharepoint-online-how-to-choose-between-team-site-and-communication-site.html)
 - [**How to Map Json String to a Model in ASP.NET Core?**](https://jamilhallal.blogspot.com/2022/02/how-to-map-json-string-to-a-model-in-aspnet-core.html)
 - [**Applying Policy-based Authorization in ASPNET Core**](https://jamilhallal.blogspot.com/2022/02/applying-policy-based-authorization-in-aspnet-core.html)
